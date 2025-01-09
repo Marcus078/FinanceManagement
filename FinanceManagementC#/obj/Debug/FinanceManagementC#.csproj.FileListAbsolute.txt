@@ -1,0 +1,7 @@
+C:\Users\Mashila Marcus\source\repos\FinanceManagementC#\FinanceManagementC#\obj\Debug\FinanceManagementC#.csproj.AssemblyReference.cache
+C:\Users\Mashila Marcus\source\repos\FinanceManagementC#\FinanceManagementC#\obj\Debug\FinanceManagementC#.csproj.CoreCompileInputs.cache
+C:\Users\Mashila Marcus\source\repos\FinanceManagementC#\FinanceManagementC#\bin\Debug\FinanceManagementC#.exe.config
+C:\Users\Mashila Marcus\source\repos\FinanceManagementC#\FinanceManagementC#\bin\Debug\FinanceManagementC#.exe
+C:\Users\Mashila Marcus\source\repos\FinanceManagementC#\FinanceManagementC#\bin\Debug\FinanceManagementC#.pdb
+C:\Users\Mashila Marcus\source\repos\FinanceManagementC#\FinanceManagementC#\obj\Debug\FinanceManagementC#.exe
+C:\Users\Mashila Marcus\source\repos\FinanceManagementC#\FinanceManagementC#\obj\Debug\FinanceManagementC#.pdb

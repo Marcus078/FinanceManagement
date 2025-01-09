@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|c:\\users\\mashila marcus\\source\\repos\\financemanagementc#\\financemanagementc#\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|solutionrelative:financemanagementc#\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|solutionrelative:FinanceManagementC#\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\MenuHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|solutionrelative:FinanceManagementC#\\MenuHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\SafeInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|solutionrelative:FinanceManagementC#\\SafeInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\CurrentAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|solutionrelative:FinanceManagementC#\\CurrentAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|solutionrelative:FinanceManagementC#\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B185BEFB-0085-4CA4-99BE-C5845353C241}|FinanceManagementC#\\FinanceManagementC#.csproj|solutionrelative:FinanceManagementC#\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\Transaction.cs",
+              "RelativeDocumentMoniker": "FinanceManagementC#\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\Transaction.cs",
+              "RelativeToolTip": "FinanceManagementC#\\Transaction.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:21:51.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\Account.cs",
+              "RelativeDocumentMoniker": "FinanceManagementC#\\Account.cs",
+              "ToolTip": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\Account.cs",
+              "RelativeToolTip": "FinanceManagementC#\\Account.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:20:17.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\MenuHandler.cs",
+              "RelativeDocumentMoniker": "FinanceManagementC#\\MenuHandler.cs",
+              "ToolTip": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\MenuHandler.cs",
+              "RelativeToolTip": "FinanceManagementC#\\MenuHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:19:12.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SafeInput.cs",
+              "DocumentMoniker": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\SafeInput.cs",
+              "RelativeDocumentMoniker": "FinanceManagementC#\\SafeInput.cs",
+              "ToolTip": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\SafeInput.cs",
+              "RelativeToolTip": "FinanceManagementC#\\SafeInput.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:50:47.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "FinanceManagementC#\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\CurrentAccount.cs",
+              "RelativeToolTip": "FinanceManagementC#\\CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:23:14.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "FinanceManagementC#\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\SavingsAccount.cs",
+              "RelativeToolTip": "FinanceManagementC#\\SavingsAccount.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:22:34.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceManagementC#\\Program.cs",
+              "ToolTip": "C:\\Users\\Mashila Marcus\\source\\repos\\FinanceManagementC#\\FinanceManagementC#\\Program.cs",
+              "RelativeToolTip": "FinanceManagementC#\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:35:27.522Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
