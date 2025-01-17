@@ -27,7 +27,7 @@ A code editor such as Visual Studio or Visual Studio Code.
 
 Installation
 Clone this repository:
-git clone https://github.com/yourusername/FinanceManagementCSharp.git
+git clone (https://github.com/Marcus078/FinanceManagement.git)
 Open the project in your preferred IDE.
 Build the solution to restore dependencies.
 Run the application.
