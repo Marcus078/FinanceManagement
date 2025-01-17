@@ -3,11 +3,7 @@
 public class Transaction
 {
     // Properties for the transaction
-    /*
-     The { get; } syntax indicates that the property is read-only outside the class.
-    This means that once these properties are set through the constructor (explained below), 
-    their values cannot be changed directly from outside the class.
-     */
+   
     public string Description { get; }
     public decimal Amount { get; }
     public DateTime Date { get; }
